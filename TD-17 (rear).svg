@@ -1,168 +1,652 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1050" height="310" viewBox="0, 0, 1050, 310">
-  <g id="Body">
-    <g id="Knob_1">
-      <path d="M90.727,13.347 L88.161,68.93 L139.627,69.096 L138.031,13.544 L90.727,13.347 z" fill="#000000"/>
-      <path d="M90.727,13.347 C90.597,4.336 137.916,4.336 138.046,13.149" fill="#808080"/>
-      <path d="M90.684,13.74 C90.553,9.002 137.916,9.002 138.046,13.636" fill="#000000"/>
-      <g>
-        <path d="M118.427,13.782 L116.882,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M122.401,13.782 L121.739,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M130.981,13.782 L130.319,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M133.9,13.782 L133.238,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M126.835,13.782 L126.173,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5" id="Shape"/>
-        <path d="M97.127,13.782 L95.581,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M101.1,13.782 L100.438,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M109.68,13.782 L109.018,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M112.599,13.782 L111.937,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M105.535,13.782 L104.872,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   x="0"
+   y="0"
+   width="1050"
+   height="310"
+   viewBox="0, 0, 1050, 310"
+   id="svg86"
+   sodipodi:docname="TD-17 (rear).svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs86" />
+  <sodipodi:namedview
+     id="namedview86"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.61232389"
+     inkscape:cx="516.88332"
+     inkscape:cy="131.46637"
+     inkscape:window-width="1392"
+     inkscape:window-height="1212"
+     inkscape:window-x="3339"
+     inkscape:window-y="703"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg86" />
+  <g
+     id="Body"
+     style="display:inline">
+    <path
+       d="m 26.035742,68.145988 48.273217,-0.16703 -0.01135,31.468416 -48.273217,0.167029 z"
+       fill="#6f6f6f"
+       id="path52"
+       style="stroke-width:1.17905" />
+    <path
+       d="m 989.521,68.054738 35.802,-0.162 0.138,30.521 -35.802,0.162 z"
+       fill="#6f6f6f"
+       id="path53" />
+    <g
+       id="g55"
+       style="display:inline"
+       inkscape:label="Main Body">
+      <path
+         d="m 1033.377,98.75 v 15.628 L 958.663,307.671 92.136,306.437 17.624,114.789 V 99.161 Z M 990.014,68.228 H 61.635 V 98.75 h 928.379 z"
+         fill="#383838"
+         id="path54"
+         style="display:inline" />
+      <path
+         d="m 1033.377,98.75 v 15.628 L 958.663,307.671 92.136,306.437 17.624,114.789 V 99.161 Z M 990.014,68.228 H 61.635 V 98.75 h 928.379 z"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="0.5"
+         id="path55"
+         style="display:inline" />
+    </g>
+    <g
+       id="Knob_1"
+       style="display:inline">
+      <path
+         d="m 90.727,13.347 -2.566,55.583 51.466,0.166 -1.596,-55.552 z"
+         fill="#000000"
+         id="path1" />
+      <path
+         d="m 90.727,13.347 c -0.13,-9.011 47.189,-9.011 47.319,-0.198"
+         fill="#808080"
+         id="path2" />
+      <path
+         d="M 90.684,13.74 C 90.553,9.002 137.916,9.002 138.046,13.636"
+         fill="#000000"
+         id="path3" />
+      <g
+         id="g12">
+        <path
+           d="m 118.427,13.782 -1.545,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path4" />
+        <path
+           d="m 122.401,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path5" />
+        <path
+           d="m 130.981,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path6" />
+        <path
+           d="m 133.9,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path7" />
+        <path
+           d="m 126.835,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="Shape" />
+        <path
+           d="M 97.127,13.782 95.581,65.167"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path8" />
+        <path
+           d="m 101.1,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path9" />
+        <path
+           d="m 109.68,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path10" />
+        <path
+           d="m 112.599,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path11" />
+        <path
+           d="m 105.535,13.782 -0.663,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path12" />
       </g>
     </g>
-    <g id="Knob_2">
-      <path d="M184.838,13.347 L182.272,68.93 L233.737,69.096 L232.141,13.544 L184.838,13.347 z" fill="#000000"/>
-      <path d="M184.838,13.347 C184.707,4.336 232.026,4.336 232.157,13.149" fill="#808080"/>
-      <path d="M184.795,13.74 C184.664,9.002 232.026,9.002 232.157,13.636" fill="#000000"/>
-      <g>
-        <path d="M212.191,13.782 L210.646,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M216.165,13.782 L215.503,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M224.745,13.782 L224.083,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M227.664,13.782 L227.002,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M220.599,13.782 L219.937,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M190.89,13.782 L189.345,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M194.864,13.782 L194.202,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M203.444,13.782 L202.782,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5" id="Shape"/>
-        <path d="M206.363,13.782 L205.701,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5" id="Shape"/>
-        <path d="M199.298,13.782 L198.636,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
+    <g
+       id="Knob_2"
+       style="display:inline">
+      <path
+         d="m 184.838,13.347 -2.566,55.583 51.465,0.166 -1.596,-55.552 z"
+         fill="#000000"
+         id="path13" />
+      <path
+         d="m 184.838,13.347 c -0.131,-9.011 47.188,-9.011 47.319,-0.198"
+         fill="#808080"
+         id="path14" />
+      <path
+         d="m 184.795,13.74 c -0.131,-4.738 47.231,-4.738 47.362,-0.104"
+         fill="#000000"
+         id="path15" />
+      <g
+         id="g25">
+        <path
+           d="m 212.191,13.782 -1.545,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path16" />
+        <path
+           d="m 216.165,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path17" />
+        <path
+           d="m 224.745,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path18" />
+        <path
+           d="m 227.664,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path19" />
+        <path
+           d="m 220.599,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path20" />
+        <path
+           d="m 190.89,13.782 -1.545,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path21" />
+        <path
+           d="m 194.864,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path22" />
+        <path
+           d="m 203.444,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path23" />
+        <path
+           d="m 206.363,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path24" />
+        <path
+           d="m 199.298,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path25" />
       </g>
     </g>
-    <g id="Knob_3">
-      <path d="M283.425,13.347 L280.859,68.93 L332.325,69.096 L330.728,13.544 L283.425,13.347 z" fill="#000000"/>
-      <path d="M283.425,13.347 C283.295,4.336 330.614,4.336 330.744,13.149" fill="#808080"/>
-      <path d="M283.382,13.74 C283.251,9.002 330.613,9.002 330.744,13.636" fill="#000000"/>
-      <g>
-        <path d="M310.779,13.782 L309.233,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M314.752,13.782 L314.09,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M323.333,13.782 L322.67,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M326.251,13.782 L325.589,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M319.187,13.782 L318.524,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M297.886,13.782 L297.224,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M304.95,13.782 L304.288,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M302.032,13.782 L301.369,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M293.452,13.782 L292.789,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M289.478,13.782 L287.932,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
+    <g
+       id="Knob_3"
+       style="display:inline">
+      <path
+         d="m 283.425,13.347 -2.566,55.583 51.466,0.166 -1.597,-55.552 z"
+         fill="#000000"
+         id="path26" />
+      <path
+         d="m 283.425,13.347 c -0.13,-9.011 47.189,-9.011 47.319,-0.198"
+         fill="#808080"
+         id="path27" />
+      <path
+         d="m 283.382,13.74 c -0.131,-4.738 47.231,-4.738 47.362,-0.104"
+         fill="#000000"
+         id="path28" />
+      <g
+         id="g38">
+        <path
+           d="m 310.779,13.782 -1.546,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path29" />
+        <path
+           d="M 314.752,13.782 314.09,65.167"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path30" />
+        <path
+           d="M 323.333,13.782 322.67,65.167"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path31" />
+        <path
+           d="m 326.251,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path32" />
+        <path
+           d="m 319.187,13.782 -0.663,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path33" />
+        <path
+           d="m 297.886,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path34" />
+        <path
+           d="m 304.95,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path35" />
+        <path
+           d="m 302.032,13.782 -0.663,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path36" />
+        <path
+           d="m 293.452,13.782 -0.663,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path37" />
+        <path
+           d="m 289.478,13.782 -1.546,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path38" />
       </g>
     </g>
-    <g id="Knob_4">
-      <path d="M379.644,13.347 L377.078,68.93 L428.544,69.096 L426.947,13.544 L379.644,13.347 z" fill="#000000"/>
-      <path d="M379.644,13.347 C379.514,4.336 426.833,4.336 426.963,13.149" fill="#808080"/>
-      <path d="M379.601,13.74 C379.47,9.002 426.833,9.002 426.963,13.636" fill="#000000"/>
-      <g>
-        <path d="M409.28,13.782 L407.735,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M413.254,13.782 L412.591,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M421.834,13.782 L421.172,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M424.753,13.782 L424.09,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M417.688,13.782 L417.026,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M387.979,13.782 L386.434,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M391.953,13.782 L391.291,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M400.533,13.782 L399.871,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M403.452,13.782 L402.789,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
-        <path d="M396.387,13.782 L395.725,65.167" fill-opacity="0" stroke="#808080" stroke-width="0.5"/>
+    <g
+       id="Knob_4"
+       inkscape:label="Knob_4"
+       style="display:inline">
+      <path
+         d="m 379.644,13.347 -2.566,55.583 51.466,0.166 -1.597,-55.552 z"
+         fill="#000000"
+         id="path39" />
+      <path
+         d="m 379.644,13.347 c -0.13,-9.011 47.189,-9.011 47.319,-0.198"
+         fill="#808080"
+         id="path40" />
+      <path
+         d="M 379.601,13.74 C 379.47,9.002 426.833,9.002 426.963,13.636"
+         fill="#000000"
+         id="path41" />
+      <g
+         id="g51">
+        <path
+           d="m 409.28,13.782 -1.545,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path42" />
+        <path
+           d="m 413.254,13.782 -0.663,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path43" />
+        <path
+           d="m 421.834,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path44" />
+        <path
+           d="M 424.753,13.782 424.09,65.167"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path45" />
+        <path
+           d="m 417.688,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path46" />
+        <path
+           d="m 387.979,13.782 -1.545,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path47" />
+        <path
+           d="m 391.953,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path48" />
+        <path
+           d="m 400.533,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path49" />
+        <path
+           d="m 403.452,13.782 -0.663,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path50" />
+        <path
+           d="m 396.387,13.782 -0.662,51.385"
+           fill-opacity="0"
+           stroke="#808080"
+           stroke-width="0.5"
+           id="path51" />
       </g>
-    </g>
-    <g id="Body">
-      <path d="M25.195,67.891 L60.997,67.729 L61.135,98.25 L25.333,98.412 z" fill="#6F6F6F"/>
-      <path d="M989.521,67.89 L1025.323,67.728 L1025.461,98.249 L989.659,98.411 z" fill="#6F6F6F" id="Shape"/>
-      <g id="Shape">
-        <path d="M1033.377,98.75 L1033.377,114.378 L958.663,307.671 L92.136,306.437 L17.624,114.789 L17.624,99.161 L1033.377,98.75 z M990.014,68.228 L61.635,68.228 L61.635,98.75 L990.014,98.75 L990.014,68.228 z" fill="#383838"/>
-        <path d="M1033.377,98.75 L1033.377,114.378 L958.663,307.671 L92.136,306.437 L17.624,114.789 L17.624,99.161 L1033.377,98.75 z M990.014,68.228 L61.635,68.228 L61.635,98.75 L990.014,98.75 L990.014,68.228 z" fill-opacity="0" stroke="#000000" stroke-width="0.5"/>
-      </g>
-    </g>
-    <g id="Midi">
-      <g id="Out">
-        <path d="M622.008,220.73 C598.922,220.147 580.675,201.69 581.252,179.506 C581.83,157.321 601.013,139.81 624.099,140.393 C647.185,140.976 665.432,159.433 664.855,181.617 C664.278,203.801 645.094,221.313 622.008,220.73 z" fill="#000000"/>
-        <path d="M622.008,220.73 C598.922,220.147 580.675,201.69 581.252,179.506 C581.83,157.321 601.013,139.81 624.099,140.393 C647.185,140.976 665.432,159.433 664.855,181.617 C664.278,203.801 645.094,221.313 622.008,220.73 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="1"/>
-      </g>
-    </g>
-    <g id="Master_Out">
-      <g id="R">
-        <path d="M325.39,186.713 C310.046,186.713 297.607,174.979 297.607,160.505 C297.607,146.03 310.046,134.297 325.39,134.297 C340.735,134.297 353.174,146.03 353.174,160.505 C353.174,174.979 340.735,186.713 325.39,186.713 z" fill="#2C2B2F"/>
-        <path d="M325.395,179.961 C314.016,180.116 304.679,171.404 304.541,160.5 C304.403,149.597 313.515,140.631 324.895,140.476 C336.274,140.32 345.611,149.033 345.749,159.936 C345.887,170.84 336.774,179.805 325.395,179.961 z" fill="#000000"/>
-      </g>
-      <g id="L/Mono">
-        <path d="M394.517,186.713 C379.173,186.713 366.734,174.979 366.734,160.505 C366.734,146.03 379.173,134.297 394.517,134.297 C409.862,134.297 422.301,146.03 422.301,160.505 C422.301,174.979 409.862,186.713 394.517,186.713 z" fill="#2C2B2F"/>
-        <path d="M394.522,179.961 C383.143,180.116 373.806,171.404 373.668,160.5 C373.53,149.597 382.643,140.631 394.022,140.476 C405.401,140.32 414.738,149.033 414.876,159.936 C415.015,170.84 405.902,179.805 394.522,179.961 z" fill="#000000"/>
-      </g>
-    </g>
-    <g id="Mix_In">
-      <path d="M466.445,174.36 C458.013,174.36 451.178,168.157 451.178,160.505 C451.178,152.852 458.013,146.649 466.445,146.649 C474.877,146.649 481.712,152.852 481.712,160.505 C481.712,168.157 474.877,174.36 466.445,174.36 z" fill="#6B6972"/>
-      <path d="M466.448,170.791 C460.195,170.873 455.064,166.267 454.988,160.502 C454.912,154.738 459.92,149.998 466.173,149.916 C472.426,149.833 477.556,154.44 477.632,160.204 C477.708,165.968 472.701,170.708 466.448,170.791 z" fill="#000000" id="Shape"/>
-      <path d="M466.945,187.213 C452.223,187.213 440.289,175.479 440.289,161.005 C440.289,146.53 452.223,134.797 466.945,134.797 C481.667,134.797 493.601,146.53 493.601,161.005 C493.601,175.479 481.667,187.213 466.945,187.213 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
-    </g>
-    <g id="DC">
-      <g id="DC_IN">
-        <path d="M150.925,143.25 L195.058,143.25 L195.058,196.889 L150.925,196.889 z" fill="#2C2B2F"/>
-        <path d="M150.925,143.25 L195.058,143.25 L195.058,196.889 L150.925,196.889 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
-      </g>
-      <g>
-        <path d="M172.991,191.857 C164.926,191.857 158.388,185.484 158.388,177.623 C158.388,169.762 164.926,163.389 172.991,163.389 C181.057,163.389 187.595,169.762 187.595,177.623 C187.595,185.484 181.057,191.857 172.991,191.857 z" fill="#000000"/>
-        <path d="M172.991,191.857 C164.926,191.857 158.388,185.484 158.388,177.623 C158.388,169.762 164.926,163.389 172.991,163.389 C181.057,163.389 187.595,169.762 187.595,177.623 C187.595,185.484 181.057,191.857 172.991,191.857 z" fill-opacity="0" stroke="#000000" stroke-width="0.5"/>
-      </g>
-      <g>
-        <path d="M178.221,176.311 C176.747,176.311 175.552,175.102 175.552,173.609 C175.552,172.117 176.747,170.908 178.221,170.908 C179.694,170.908 180.889,172.117 180.889,173.609 C180.889,175.102 179.694,176.311 178.221,176.311 z" fill="#FFFFFF"/>
-        <path d="M178.221,176.311 C176.747,176.311 175.552,175.102 175.552,173.609 C175.552,172.117 176.747,170.908 178.221,170.908 C179.694,170.908 180.889,172.117 180.889,173.609 C180.889,175.102 179.694,176.311 178.221,176.311 z" fill-opacity="0" stroke="#000000" stroke-width="0.5"/>
-      </g>
-    </g>
-    <g id="Trigger_In">
-      <g id="Crash_2">
-        <path d="M325.39,288.123 C310.046,288.123 297.607,276.389 297.607,261.915 C297.607,247.441 310.046,235.707 325.39,235.707 C340.735,235.707 353.174,247.441 353.174,261.915 C353.174,276.389 340.735,288.123 325.39,288.123 z" fill="#2C2B2F"/>
-        <path d="M325.395,281.371 C314.016,281.527 304.679,272.814 304.541,261.911 C304.403,251.007 313.515,242.042 324.895,241.886 C336.274,241.73 345.611,250.443 345.749,261.346 C345.887,272.25 336.774,281.215 325.395,281.371 z" fill="#000000"/>
-      </g>
-      <g id="Aux">
-        <path d="M394.517,288.123 C379.173,288.123 366.734,276.389 366.734,261.915 C366.734,247.441 379.173,235.707 394.517,235.707 C409.862,235.707 422.301,247.441 422.301,261.915 C422.301,276.389 409.862,288.123 394.517,288.123 z" fill="#2C2B2F"/>
-        <path d="M394.522,281.371 C383.143,281.527 373.806,272.814 373.668,261.911 C373.53,251.007 382.643,242.042 394.022,241.886 C405.401,241.73 414.738,250.443 414.876,261.346 C415.015,272.25 405.902,281.215 394.522,281.371 z" fill="#000000"/>
-      </g>
-    </g>
-    <g id="Phones">
-      <path d="M257.2,187.213 C242.478,187.213 230.544,175.479 230.544,161.005 C230.544,146.53 242.478,134.797 257.2,134.797 C271.922,134.797 283.856,146.53 283.856,161.005 C283.856,175.479 271.922,187.213 257.2,187.213 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
-      <path d="M256.7,174.36 C248.268,174.36 241.433,168.157 241.433,160.505 C241.433,152.852 248.268,146.649 256.7,146.649 C265.132,146.649 271.967,152.852 271.967,160.505 C271.967,168.157 265.132,174.36 256.7,174.36 z" fill="#6B6972"/>
-      <path d="M256.703,170.791 C250.45,170.873 245.319,166.267 245.243,160.502 C245.167,154.738 250.175,149.998 256.428,149.916 C262.681,149.833 267.811,154.44 267.887,160.204 C267.963,165.968 262.956,170.708 256.703,170.791 z" fill="#000000"/>
     </g>
   </g>
-  <g id="Labels">
-    <g id="MIDI">
-      <text transform="matrix(1, 0, 0, 1, 622.554, 138.149)" id="____MIDI____">
-        <tspan x="-33.418" y="-5.072" font-family="GranthaSangamMN-Bold" font-size="16" fill="#DADCE0">MIDI OUT</tspan>
-      </text>
+  <g
+     id="g77"
+     style="display:inline"
+     inkscape:label="Inputs and Outputs">
+    <g
+       id="Midi">
+      <g
+         id="Out">
+        <path
+           d="m 622.008,220.73 c -23.086,-0.583 -41.333,-19.04 -40.756,-41.224 0.578,-22.185 19.761,-39.696 42.847,-39.113 23.086,0.583 41.333,19.04 40.756,41.224 -0.577,22.184 -19.761,39.696 -42.847,39.113 z"
+           fill="#000000"
+           id="path56" />
+        <path
+           d="m 622.008,220.73 c -23.086,-0.583 -41.333,-19.04 -40.756,-41.224 0.578,-22.185 19.761,-39.696 42.847,-39.113 23.086,0.583 41.333,19.04 40.756,41.224 -0.577,22.184 -19.761,39.696 -42.847,39.113 z"
+           fill-opacity="0"
+           stroke="#ffffff"
+           stroke-width="1"
+           id="path57" />
+      </g>
     </g>
-    <g id="DC_IN">
-      <text transform="matrix(1, 0, 0, 1, 172.491, 130.788)">
-        <tspan x="-20.168" y="2.289" font-family="GranthaSangamMN-Bold" font-size="16" fill="#DADCE0">DC IN</tspan>
-      </text>
+    <g
+       id="Master_Out">
+      <g
+         id="R">
+        <path
+           d="m 325.39,186.713 c -15.344,0 -27.783,-11.734 -27.783,-26.208 0,-14.475 12.439,-26.208 27.783,-26.208 15.345,0 27.784,11.733 27.784,26.208 0,14.474 -12.439,26.208 -27.784,26.208 z"
+           fill="#2c2b2f"
+           id="path58" />
+        <path
+           d="m 325.395,179.961 c -11.379,0.155 -20.716,-8.557 -20.854,-19.461 -0.138,-10.903 8.974,-19.869 20.354,-20.024 11.379,-0.156 20.716,8.557 20.854,19.46 0.138,10.904 -8.975,19.869 -20.354,20.025 z"
+           fill="#000000"
+           id="path59" />
+      </g>
+      <g
+         id="L/Mono">
+        <path
+           d="m 394.517,186.713 c -15.344,0 -27.783,-11.734 -27.783,-26.208 0,-14.475 12.439,-26.208 27.783,-26.208 15.345,0 27.784,11.733 27.784,26.208 0,14.474 -12.439,26.208 -27.784,26.208 z"
+           fill="#2c2b2f"
+           id="path60" />
+        <path
+           d="m 394.522,179.961 c -11.379,0.155 -20.716,-8.557 -20.854,-19.461 -0.138,-10.903 8.975,-19.869 20.354,-20.024 11.379,-0.156 20.716,8.557 20.854,19.46 0.139,10.904 -8.974,19.869 -20.354,20.025 z"
+           fill="#000000"
+           id="path61" />
+      </g>
     </g>
-    <text transform="matrix(1, 0, 0, 1, 359.954, 113.297)" id="MASTER_OUTPUT">
-      <tspan x="-76.219" y="-2" font-family="GranthaSangamMN-Bold" font-size="16" fill="#DADCE0">—MASTER OUTPUT—</tspan>
-    </text>
-    <text transform="matrix(1, 0, 0, 1, 359.532, 213.889)">
-      <tspan x="-68.707" y="1.5" font-family="GranthaSangamMN-Bold" font-size="16" fill="#DADCE0">——TRIGGER IN——</tspan>
-    </text>
-    <text transform="matrix(1, 0, 0, 1, 324.184, 234.624)" id="Crash_2">
-      <tspan x="-32.582" y="1" font-family="GranthaSangamMN-Bold" font-size="16" fill="#DADCE0">CRASH 2</tspan>
-    </text>
-    <text transform="matrix(1, 0, 0, 1, 395.731, 234.624)" id="Aux">
-      <tspan x="-15.656" y="2.087" font-family="GranthaSangamMN-Bold" font-size="16" fill="#DADCE0">AUX</tspan>
-    </text>
-    <text transform="matrix(1, 0, 0, 1, 395.731, 130.788)">
-      <tspan x="-30.883" y="1.412" font-family="GranthaSangamMN-Bold" font-size="16" fill="#DADCE0">L/MONO</tspan>
-    </text>
-    <text transform="matrix(1, 0, 0, 1, 324.184, 130.876)">
-      <tspan x="-5.09" y="1.5" font-family="GranthaSangamMN-Bold" font-size="16" fill="#DADCE0">R</tspan>
-    </text>
-    <text transform="matrix(1, 0, 0, 1, 256.7, 130.876)">
-      <tspan x="-30.676" y="1.5" font-family="GranthaSangamMN-Bold" font-size="16" fill="#DADCE0">PHONES</tspan>
-    </text>
-    <text transform="matrix(1, 0, 0, 1, 466.445, 132.86)">
-      <tspan x="-22.777" y="0.217" font-family="GranthaSangamMN-Bold" font-size="16" fill="#DADCE0">MIX IN</tspan>
-    </text>
+    <g
+       id="Mix_In">
+      <path
+         d="m 466.445,174.36 c -8.432,0 -15.267,-6.203 -15.267,-13.855 0,-7.653 6.835,-13.856 15.267,-13.856 8.432,0 15.267,6.203 15.267,13.856 0,7.652 -6.835,13.855 -15.267,13.855 z"
+         fill="#6b6972"
+         id="path62" />
+      <path
+         d="m 466.448,170.791 c -6.253,0.082 -11.384,-4.524 -11.46,-10.289 -0.076,-5.764 4.932,-10.504 11.185,-10.586 6.253,-0.083 11.383,4.524 11.459,10.288 0.076,5.764 -4.931,10.504 -11.184,10.587 z"
+         fill="#000000"
+         id="path63" />
+      <path
+         d="m 466.945,187.213 c -14.722,0 -26.656,-11.734 -26.656,-26.208 0,-14.475 11.934,-26.208 26.656,-26.208 14.722,0 26.656,11.733 26.656,26.208 0,14.474 -11.934,26.208 -26.656,26.208 z"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="1"
+         id="path64" />
+    </g>
+    <g
+       id="DC">
+      <g
+         id="DC_IN">
+        <path
+           d="m 150.925,143.25 h 44.133 v 53.639 h -44.133 z"
+           fill="#2c2b2f"
+           id="path65" />
+        <path
+           d="m 150.925,143.25 h 44.133 v 53.639 h -44.133 z"
+           fill-opacity="0"
+           stroke="#000000"
+           stroke-width="1"
+           id="path66" />
+      </g>
+      <g
+         id="g68">
+        <path
+           d="m 172.991,191.857 c -8.065,0 -14.603,-6.373 -14.603,-14.234 0,-7.861 6.538,-14.234 14.603,-14.234 8.066,0 14.604,6.373 14.604,14.234 0,7.861 -6.538,14.234 -14.604,14.234 z"
+           fill="#000000"
+           id="path67" />
+        <path
+           d="m 172.991,191.857 c -8.065,0 -14.603,-6.373 -14.603,-14.234 0,-7.861 6.538,-14.234 14.603,-14.234 8.066,0 14.604,6.373 14.604,14.234 0,7.861 -6.538,14.234 -14.604,14.234 z"
+           fill-opacity="0"
+           stroke="#000000"
+           stroke-width="0.5"
+           id="path68" />
+      </g>
+      <g
+         id="g70">
+        <path
+           d="m 178.221,176.311 c -1.474,0 -2.669,-1.209 -2.669,-2.702 0,-1.492 1.195,-2.701 2.669,-2.701 1.473,0 2.668,1.209 2.668,2.701 0,1.493 -1.195,2.702 -2.668,2.702 z"
+           fill="#ffffff"
+           id="path69" />
+        <path
+           d="m 178.221,176.311 c -1.474,0 -2.669,-1.209 -2.669,-2.702 0,-1.492 1.195,-2.701 2.669,-2.701 1.473,0 2.668,1.209 2.668,2.701 0,1.493 -1.195,2.702 -2.668,2.702 z"
+           fill-opacity="0"
+           stroke="#000000"
+           stroke-width="0.5"
+           id="path70" />
+      </g>
+    </g>
+    <g
+       id="Trigger_In">
+      <g
+         id="Crash_2">
+        <path
+           d="m 325.39,288.123 c -15.344,0 -27.783,-11.734 -27.783,-26.208 0,-14.474 12.439,-26.208 27.783,-26.208 15.345,0 27.784,11.734 27.784,26.208 0,14.474 -12.439,26.208 -27.784,26.208 z"
+           fill="#2c2b2f"
+           id="path71" />
+        <path
+           d="m 325.395,281.371 c -11.379,0.156 -20.716,-8.557 -20.854,-19.46 -0.138,-10.904 8.974,-19.869 20.354,-20.025 11.379,-0.156 20.716,8.557 20.854,19.46 0.138,10.904 -8.975,19.869 -20.354,20.025 z"
+           fill="#000000"
+           id="path72" />
+      </g>
+      <g
+         id="Aux">
+        <path
+           d="m 394.517,288.123 c -15.344,0 -27.783,-11.734 -27.783,-26.208 0,-14.474 12.439,-26.208 27.783,-26.208 15.345,0 27.784,11.734 27.784,26.208 0,14.474 -12.439,26.208 -27.784,26.208 z"
+           fill="#2c2b2f"
+           id="path73" />
+        <path
+           d="m 394.522,281.371 c -11.379,0.156 -20.716,-8.557 -20.854,-19.46 -0.138,-10.904 8.975,-19.869 20.354,-20.025 11.379,-0.156 20.716,8.557 20.854,19.46 0.139,10.904 -8.974,19.869 -20.354,20.025 z"
+           fill="#000000"
+           id="path74" />
+      </g>
+    </g>
+    <g
+       id="Phones">
+      <path
+         d="m 257.2,187.213 c -14.722,0 -26.656,-11.734 -26.656,-26.208 0,-14.475 11.934,-26.208 26.656,-26.208 14.722,0 26.656,11.733 26.656,26.208 0,14.474 -11.934,26.208 -26.656,26.208 z"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="1"
+         id="path75" />
+      <path
+         d="m 256.7,174.36 c -8.432,0 -15.267,-6.203 -15.267,-13.855 0,-7.653 6.835,-13.856 15.267,-13.856 8.432,0 15.267,6.203 15.267,13.856 0,7.652 -6.835,13.855 -15.267,13.855 z"
+         fill="#6b6972"
+         id="path76" />
+      <path
+         d="m 256.703,170.791 c -6.253,0.082 -11.384,-4.524 -11.46,-10.289 -0.076,-5.764 4.932,-10.504 11.185,-10.586 6.253,-0.083 11.383,4.524 11.459,10.288 0.076,5.764 -4.931,10.504 -11.184,10.587 z"
+         fill="#000000"
+         id="path77" />
+    </g>
+  </g>
+  <g
+     id="Labels"
+     style="display:inline">
+    <text
+       transform="translate(622.554,138.149)"
+       id="____MIDI____"
+       style="display:inline;-inkscape-font-specification:'GranthaSangamMN-Bold, Bold';font-family:GranthaSangamMN-Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         x="-33.417999"
+         y="-5.072"
+         font-family="GranthaSangamMN-Bold"
+         font-size="16px"
+         fill="#dadce0"
+         id="tspan77"
+         style="-inkscape-font-specification:'GranthaSangamMN-Bold, Bold';font-family:GranthaSangamMN-Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">MIDI OUT</tspan></text>
+    <text
+       transform="translate(172.491,130.788)"
+       id="text78"
+       style="display:inline;-inkscape-font-specification:'GranthaSangamMN-Bold, Bold';font-family:GranthaSangamMN-Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       inkscape:label="DC IN"><tspan
+         x="-20.167999"
+         y="2.289"
+         font-family="GranthaSangamMN-Bold"
+         font-size="16px"
+         fill="#dadce0"
+         id="tspan78"
+         style="-inkscape-font-specification:'GranthaSangamMN-Bold, Bold';font-family:GranthaSangamMN-Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">DC IN</tspan></text>
+    <text
+       transform="translate(359.954,113.297)"
+       id="MASTER_OUTPUT"
+       style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         x="-76.219002"
+         y="-2"
+         font-family="GranthaSangamMN-Bold"
+         font-size="16px"
+         fill="#dadce0"
+         id="tspan79"
+         style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">—MASTER OUTPUT—</tspan></text>
+    <text
+       transform="translate(359.532,213.889)"
+       id="text80"
+       style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       inkscape:label="Trigger In"><tspan
+         x="-68.707001"
+         y="1.5"
+         font-family="GranthaSangamMN-Bold"
+         font-size="16px"
+         fill="#dadce0"
+         id="tspan80"
+         style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">——TRIGGER IN——</tspan></text>
+    <text
+       transform="translate(324.184,234.624)"
+       id="text81"
+       style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       inkscape:label="Crash 2"><tspan
+         x="-32.582001"
+         y="1"
+         font-family="GranthaSangamMN-Bold"
+         font-size="16px"
+         fill="#dadce0"
+         id="tspan81"
+         style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CRASH 2</tspan></text>
+    <text
+       transform="translate(395.731,234.624)"
+       id="text82"
+       style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       inkscape:label="Aux"><tspan
+         x="-15.656"
+         y="2.0869999"
+         font-family="GranthaSangamMN-Bold"
+         font-size="16px"
+         fill="#dadce0"
+         id="tspan82"
+         style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">AUX</tspan></text>
+    <text
+       transform="translate(395.731,130.788)"
+       id="text83"
+       style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       inkscape:label="L/Mono"><tspan
+         x="-30.882999"
+         y="1.4119999"
+         font-family="GranthaSangamMN-Bold"
+         font-size="16px"
+         fill="#dadce0"
+         id="tspan83"
+         style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">L/MONO</tspan></text>
+    <text
+       transform="translate(324.184,130.876)"
+       id="text84"
+       style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       inkscape:label="R"><tspan
+         x="-5.0900002"
+         y="1.5"
+         font-family="GranthaSangamMN-Bold"
+         font-size="16px"
+         fill="#dadce0"
+         id="tspan84"
+         style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">R</tspan></text>
+    <text
+       transform="translate(256.7,130.876)"
+       id="text85"
+       style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       inkscape:label="Phones"><tspan
+         x="-30.676001"
+         y="1.5"
+         font-family="GranthaSangamMN-Bold"
+         font-size="16px"
+         fill="#dadce0"
+         id="tspan85"
+         style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">PHONES</tspan></text>
+    <text
+       transform="translate(466.445,132.86)"
+       id="text86"
+       style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       inkscape:label="Mix In"><tspan
+         x="-22.777"
+         y="0.21699999"
+         font-family="GranthaSangamMN-Bold"
+         font-size="16px"
+         fill="#dadce0"
+         id="tspan86"
+         style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">MIX IN</tspan></text>
   </g>
 </svg>
